@@ -1,0 +1,6 @@
+{
+  "name": "NetScope Traffic Monitor",
+  "description": "Real-time network traffic analyzer, packet inspection engine, bandwidth telemetry, and security anomaly detection console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
